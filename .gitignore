@@ -1,0 +1,9 @@
+*.mp4
+*.avi
+data/
+datasets/
+node_modules/
+__pycache__/
+lib/
+Scripts/
+venv/
